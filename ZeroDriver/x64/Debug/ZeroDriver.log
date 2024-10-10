@@ -1,0 +1,8 @@
+﻿  Building 'ZeroDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  main.cpp
+  ZeroDriver.vcxproj -> D:\RemoteGithub\Windows-Drivers\ZeroDriver\x64\Debug\ZeroDriver.sys
+  Done Adding Additional Store
+  Successfully signed: D:\RemoteGithub\Windows-Drivers\ZeroDriver\x64\Debug\ZeroDriver.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  

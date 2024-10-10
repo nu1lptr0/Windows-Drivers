@@ -1,0 +1,8 @@
+﻿  Building 'Booster' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  main.cpp
+  Booster.vcxproj -> D:\RemoteGithub\Windows-Drivers\Booster\x64\Debug\Booster.sys
+  Done Adding Additional Store
+  Successfully signed: D:\RemoteGithub\Windows-Drivers\Booster\x64\Debug\Booster.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
